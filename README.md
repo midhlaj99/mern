@@ -1,3 +1,6 @@
+## Description
+basic authentication system using node and react
+
 ## Available Scripts
 
 In the project directory, you can run:
