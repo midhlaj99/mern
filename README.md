@@ -1,3 +1,7 @@
+Description
+
+Crud operation using node,react and redux
+
 ## Available Scripts
 
 In the project directory, you can run:
